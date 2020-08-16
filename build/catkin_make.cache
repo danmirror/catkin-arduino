@@ -1,0 +1,2 @@
+supiro_lite
+-DCATKIN_DEVEL_PREFIX=/home/danu/catkin_custom/catkin_arduino/devel -DCMAKE_INSTALL_PREFIX=/home/danu/catkin_custom/catkin_arduino/install -G Unix Makefiles

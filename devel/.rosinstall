@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/danu/catkin_custom/catkin_arduino/devel/setup.sh

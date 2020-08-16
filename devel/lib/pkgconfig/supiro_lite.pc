@@ -1,0 +1,8 @@
+prefix=/home/danu/catkin_custom/catkin_arduino/devel
+
+Name: supiro_lite
+Description: Description of supiro_lite
+Version: 0.0.1
+Cflags: -I/home/danu/catkin_custom/catkin_arduino/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
